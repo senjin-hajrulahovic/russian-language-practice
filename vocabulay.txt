@@ -1,3 +1,12 @@
 рассказ - story
 упражнение - exercise
 предложение - sentence
+
+повторяем - repeat
+
+обедать - lunch
+гулять - walk
+отдыхать - rest
+ужинать - eat dinner
+завтракать - eat breakfas
+
