@@ -10,3 +10,15 @@
 ужинать - eat dinner
 завтракать - eat breakfas
 
+хорошо - good
+плохо - bad
+быстро - quick
+медленно - slow
+громко - loud
+тихо - silent
+правильно - correct
+неправильно - incorrect
+внимательно - carefully
+невнимательно - carelessly
+
+
