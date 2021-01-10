@@ -4,11 +4,12 @@
 
 повторяем - repeat
 
-обедать - lunch
 гулять - walk
 отдыхать - rest
+
+завтракать - eat breakfast
+обедать - lunch
 ужинать - eat dinner
-завтракать - eat breakfas
 
 хорошо - good
 плохо - bad
@@ -18,7 +19,15 @@
 тихо - silent
 правильно - correct
 неправильно - incorrect
-внимательно - carefully
+внимаельно - carefully
 невнимательно - carelessly
 
+рассказывать - narrate
+диалог - dialogue
+сейчас - now
+занимается ?- engage in
+готовить - prepare
+смотрить - watch
+немного - little, a bit
+потом - then, afterwards
 
