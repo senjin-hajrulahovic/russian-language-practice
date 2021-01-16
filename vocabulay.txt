@@ -1,5 +1,5 @@
 рассказ - story
-упражнение - exercise
+упражнение (упражнения)- exercise
 предложение - sentence
 
 повторяем - repeat
@@ -27,7 +27,17 @@
 сейчас - now
 занимается ?- engage in
 готовить - prepare
-смотрить - watch
+смотреть - watch
 немного - little, a bit
 потом - then, afterwards
+
+утром - in the morning
+днем - during the days
+вечером - in the evening
+
+рано - early
+поздно - late
+
+делать - do
+
 
