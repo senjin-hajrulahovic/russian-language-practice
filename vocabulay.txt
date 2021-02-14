@@ -45,4 +45,17 @@
 пальто - coat
 кухня - kitchen
 
+портфель - portofolio
+учебник - text book
+стул - chair
+шкаф - cupboard
+костюм - costume
+общежитие - doormatory
+окно - window
+картина - picture
+магнитафон - record player
+товарищ - comrade
+тетрадь - notebook
 
+справа - on the right
+кресло - armchair
